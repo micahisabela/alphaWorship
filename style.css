@@ -1,0 +1,21 @@
+body {
+  background-image: url("./images/headerImage.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 450px;
+}
+
+header {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 100px;
+  font-family: "BenchNine", sans-serif;
+}
+
+.calligraphy {
+  font-family: "Dancing Script", cursive;
+}
+
+.uppercase {
+  font-family: "Bebas Neue", cursive;
+}
